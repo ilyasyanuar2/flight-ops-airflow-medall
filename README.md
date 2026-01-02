@@ -148,6 +148,16 @@ Project ini merepresentasikan workflow Data Engineer di dunia kerja nyata, bukan
 
 ---
 
+## 🔄 DAG Execution (Airflow)
+
+![DAG](https://github.com/user-attachments/assets/08238d25-6cdd-446f-af1b-1cb3595671d5)
+
+## 🧊 Snowflake Output
+
+![snowflake](https://github.com/user-attachments/assets/effa932e-3b33-4463-a72b-c3650a884c1b)
+
+---
+
 ## 👤 Tentang Saya
 
 **Ilyas Yanuar**
