@@ -82,10 +82,11 @@ Project ini dibuat sebagai **portfolio Data Engineer**, dengan fokus tidak hanya
 
 DAG Airflow dirancang dengan **dependensi linear** untuk menjaga konsistensi data:
 
-```text
-<img width="421" height="842" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/c7ef7dd7-e3e2-4934-84ee-cd7750a176c8" />
 
-```
+<img width="440" height="871" alt="Untitled Diagram drawio (1)" src="https://github.com/user-attachments/assets/12f804aa-23fc-44b3-8b43-03fdf2ccb40c" />
+
+
+
 
 * **Jadwal:** Setiap 30 menit
 * **Retry Policy:** Dapat dikonfigurasi
