@@ -83,13 +83,8 @@ Project ini dibuat sebagai **portfolio Data Engineer**, dengan fokus tidak hanya
 DAG Airflow dirancang dengan **dependensi linear** untuk menjaga konsistensi data:
 
 ```text
-bronze_ingest
-   ↓
-silver_transform
-   ↓
-gold_aggregate
-   ↓
-load_gold_to_snowflake
+<img width="421" height="842" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/c7ef7dd7-e3e2-4934-84ee-cd7750a176c8" />
+
 ```
 
 * **Jadwal:** Setiap 30 menit
