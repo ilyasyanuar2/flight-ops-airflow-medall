@@ -121,7 +121,7 @@ Project ini mendokumentasikan error nyata selama pengembangan, antara lain:
 * Kesalahan penggunaan Python datetime (`NameError: strftime`)
 * Error Pandas akibat ketidaksesuaian schema
 
-Seluruh error diselesaikan melalui proses debugging, membaca dokumentasi, dan penyesuaian arsitektur.
+Dokumentasi ada pada file [DEBUGGING_NOTES.pdf] pada repo ini.
 
 ---
 
