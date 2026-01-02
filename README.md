@@ -157,8 +157,8 @@ Calon Data Engineer dengan pengalaman membangun pipeline data end-to-end, melaku
 
 ## 📬 Kontak
 
-* LinkedIn: *(tambahkan URL LinkedIn)*
-* GitHub: *(tambahkan URL repository GitHub)*
+* LinkedIn: *www.linkedin.com/in/ilyasyanuar*
+* Email: *(ilyasyanuar2@gmail.com)*
 
 ---
 
